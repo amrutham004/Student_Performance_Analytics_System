@@ -17,9 +17,8 @@
 - [Grading and Pass/Fail Criteria](#-grading-and-passfail-criteria)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Sample Outputs](#-sample-outputs)
+- [Outputs](#-sample-outputs)
 - [Challenges and Learning Outcomes](#-challenges-and-learning-outcomes)
-- [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
 
 ---
@@ -171,7 +170,7 @@ Student_Performance_Analytics_System/
 
 > **Using Google Colab?** Upload the dataset to your Colab session and run the notebook cells instead.
 
-## 📊 Sample Outputs
+## 📊 Outputs
 
 ### 1. Dataset Loaded in Python
 <img width="859" height="953" alt="Dataset loaded in Python" src="https://github.com/user-attachments/assets/16ec2311-3267-4d05-8f17-5367b981b65d" />
