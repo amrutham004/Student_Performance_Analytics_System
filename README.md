@@ -226,7 +226,7 @@ Student_Performance_Analytics_System/
 ## 👩‍💻 Author
 
 **Amrutha M**
-Python with AI, Student Performance Analytics System
+
 
 
 ⭐ If you found this project helpful, consider giving it a star!
