@@ -133,7 +133,6 @@ Students are sorted by average marks in descending order, and the top five are l
 Student_Performance_Analytics_System/
 ├── main.py                    # Main analysis and visualization script
 ├── students.csv               # Student dataset
-├── requirements.txt           # Python dependencies
 ├── Project_Documentation.pdf  # Detailed project documentation
 └── README.md                  # Project overview
 ```
