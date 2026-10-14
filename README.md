@@ -17,7 +17,7 @@
 - [Grading and Pass/Fail Criteria](#-grading-and-passfail-criteria)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Outputs](#-sample-outputs)
+- [Outputs](#-outputs)
 - [Challenges and Learning Outcomes](#-challenges-and-learning-outcomes)
 - [Author](#-author)
 
