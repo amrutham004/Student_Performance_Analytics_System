@@ -1,5 +1,4 @@
-# Student_Performance_Analytics_System
-<div align="center">
+
 
 # 🎓 Student Performance Analytics System
 
